@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-03-19T22:38:24.856025Z",
+  "built_at": "2026-03-19T22:50:57.327523Z",
   "method": "Real historical prices — Yahoo Finance 2-year data",
   "layers": "4-layer validation: Radar + Analysis + Entry Zones + Game Theory",
   "note": "Fundamentals (P/E, ROE, ROA) use current values as proxy — historical fundamentals not available via free API",
@@ -110,7 +110,7 @@
                 "pnl": -0.38,
                 "win": false,
                 "score": 85,
-                "ai": 82.6,
+                "ai": 82.5,
                 "rsi": 69.1,
                 "state": "ENTRY",
                 "prob": 95
@@ -194,7 +194,7 @@
                 "pnl": -0.38,
                 "win": false,
                 "score": 85,
-                "ai": 82.6,
+                "ai": 82.5,
                 "rsi": 69.1,
                 "state": "ENTRY",
                 "prob": 95
@@ -266,7 +266,7 @@
                 "pnl": 8.28,
                 "win": true,
                 "score": 85,
-                "ai": 82.6,
+                "ai": 82.5,
                 "rsi": 69.1,
                 "state": "ENTRY",
                 "prob": 95
@@ -338,7 +338,7 @@
                 "pnl": 17.94,
                 "win": true,
                 "score": 85,
-                "ai": 82.6,
+                "ai": 82.5,
                 "rsi": 69.1,
                 "state": "ENTRY",
                 "prob": 95
@@ -19555,7 +19555,7 @@
               {
                 "date": "2025-09-11",
                 "entry": 458.14,
-                "exit": 479.53,
+                "exit": 479.54,
                 "pnl": 4.67,
                 "win": true,
                 "score": 85,
@@ -30732,7 +30732,7 @@
                 "pnl": 1.29,
                 "win": true,
                 "score": 85,
-                "ai": 77.6,
+                "ai": 77.5,
                 "rsi": 59.0,
                 "state": "ENTRY",
                 "prob": 95
@@ -30864,7 +30864,7 @@
                 "pnl": 2.62,
                 "win": true,
                 "score": 85,
-                "ai": 77.6,
+                "ai": 77.5,
                 "rsi": 59.0,
                 "state": "ENTRY",
                 "prob": 95
@@ -30996,7 +30996,7 @@
                 "pnl": 13.44,
                 "win": true,
                 "score": 85,
-                "ai": 77.6,
+                "ai": 77.5,
                 "rsi": 59.0,
                 "state": "ENTRY",
                 "prob": 95
@@ -31128,7 +31128,7 @@
                 "pnl": 27.08,
                 "win": true,
                 "score": 85,
-                "ai": 77.6,
+                "ai": 77.5,
                 "rsi": 59.0,
                 "state": "ENTRY",
                 "prob": 95
@@ -44962,7 +44962,7 @@
               },
               {
                 "date": "2025-07-16",
-                "entry": 217.08,
+                "entry": 217.09,
                 "exit": 316.78,
                 "pnl": 45.93,
                 "win": true,
@@ -45335,7 +45335,7 @@
               },
               {
                 "date": "2025-07-16",
-                "entry": 217.08,
+                "entry": 217.09,
                 "exit": 401.08,
                 "pnl": 84.76,
                 "win": true,
@@ -59396,7 +59396,7 @@
                 "pnl": 3.1,
                 "win": true,
                 "score": 75,
-                "ai": 73.4,
+                "ai": 73.3,
                 "rsi": 61.3,
                 "state": "ENTRY",
                 "prob": 95
@@ -59504,7 +59504,7 @@
                 "pnl": 4.51,
                 "win": true,
                 "score": 75,
-                "ai": 73.4,
+                "ai": 73.3,
                 "rsi": 61.3,
                 "state": "ENTRY",
                 "prob": 95
@@ -59612,7 +59612,7 @@
                 "pnl": -0.88,
                 "win": false,
                 "score": 75,
-                "ai": 73.4,
+                "ai": 73.3,
                 "rsi": 61.3,
                 "state": "ENTRY",
                 "prob": 95
@@ -59708,7 +59708,7 @@
                 "pnl": 32.19,
                 "win": true,
                 "score": 75,
-                "ai": 73.4,
+                "ai": 73.3,
                 "rsi": 61.3,
                 "state": "ENTRY",
                 "prob": 95
