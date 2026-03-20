@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-03-20T21:04:25.239392Z",
+  "built_at": "2026-03-20T22:03:08.216161Z",
   "method": "Real historical prices — Yahoo Finance 2-year data",
   "layers": "4-layer validation: Radar + Analysis + Entry Zones + Game Theory",
   "note": "Fundamentals (P/E, ROE, ROA) use current values as proxy — historical fundamentals not available via free API",
@@ -440,7 +440,7 @@
                 "pnl": 1.79,
                 "win": true,
                 "score": 85,
-                "ai": 73.9,
+                "ai": 74.0,
                 "rsi": 59.1,
                 "state": "ENTRY",
                 "prob": 95
@@ -572,7 +572,7 @@
                 "pnl": 1.51,
                 "win": true,
                 "score": 85,
-                "ai": 73.9,
+                "ai": 74.0,
                 "rsi": 59.1,
                 "state": "ENTRY",
                 "prob": 95
@@ -704,7 +704,7 @@
                 "pnl": 3.54,
                 "win": true,
                 "score": 85,
-                "ai": 73.9,
+                "ai": 74.0,
                 "rsi": 59.1,
                 "state": "ENTRY",
                 "prob": 95
@@ -812,7 +812,7 @@
                 "pnl": 4.02,
                 "win": true,
                 "score": 85,
-                "ai": 73.9,
+                "ai": 74.0,
                 "rsi": 59.1,
                 "state": "ENTRY",
                 "prob": 95
@@ -20508,14 +20508,14 @@
             ]
           },
           "bayesian": {
-            "n": 27,
-            "wins": 12,
-            "win_rate": 44.4,
-            "avg_pnl": -0.11,
-            "total_pnl": -3.09,
+            "n": 26,
+            "wins": 11,
+            "win_rate": 42.3,
+            "avg_pnl": -0.28,
+            "total_pnl": -7.22,
             "max_win": 10.05,
             "max_loss": -11.52,
-            "profit_factor": 0.93,
+            "profit_factor": 0.85,
             "trades": [
               {
                 "date": "2025-06-03",
@@ -20524,7 +20524,7 @@
                 "pnl": -0.49,
                 "win": false,
                 "score": 40,
-                "ai": 65.4,
+                "ai": 64.5,
                 "rsi": 61.8,
                 "state": "WAIT",
                 "prob": 95
@@ -20536,7 +20536,7 @@
                 "pnl": 4.63,
                 "win": true,
                 "score": 55,
-                "ai": 62.1,
+                "ai": 61.6,
                 "rsi": 63.4,
                 "state": "WAIT",
                 "prob": 94
@@ -20548,7 +20548,7 @@
                 "pnl": -0.15,
                 "win": false,
                 "score": 55,
-                "ai": 87.7,
+                "ai": 87.5,
                 "rsi": 70.4,
                 "state": "WAIT",
                 "prob": 95
@@ -20560,7 +20560,7 @@
                 "pnl": 6.45,
                 "win": true,
                 "score": 70,
-                "ai": 94.0,
+                "ai": 93.8,
                 "rsi": 65.1,
                 "state": "ACCUM",
                 "prob": 95
@@ -20608,7 +20608,7 @@
                 "pnl": -1.4,
                 "win": false,
                 "score": 60,
-                "ai": 82.2,
+                "ai": 82.0,
                 "rsi": 44.9,
                 "state": "ACCUM",
                 "prob": 95
@@ -20858,14 +20858,14 @@
             ]
           },
           "bayesian": {
-            "n": 24,
-            "wins": 14,
-            "win_rate": 58.3,
-            "avg_pnl": -0.45,
-            "total_pnl": -10.82,
+            "n": 23,
+            "wins": 13,
+            "win_rate": 56.5,
+            "avg_pnl": -1.06,
+            "total_pnl": -24.4,
             "max_win": 14.55,
             "max_loss": -21.6,
-            "profit_factor": 0.88,
+            "profit_factor": 0.74,
             "trades": [
               {
                 "date": "2025-05-12",
@@ -20898,7 +20898,7 @@
                 "pnl": 6.09,
                 "win": true,
                 "score": 40,
-                "ai": 82.1,
+                "ai": 80.7,
                 "rsi": 67.0,
                 "state": "WAIT",
                 "prob": 95
@@ -20910,7 +20910,7 @@
                 "pnl": 11.16,
                 "win": true,
                 "score": 40,
-                "ai": 65.4,
+                "ai": 64.5,
                 "rsi": 61.8,
                 "state": "WAIT",
                 "prob": 95
@@ -20922,7 +20922,7 @@
                 "pnl": 14.55,
                 "win": true,
                 "score": 55,
-                "ai": 62.1,
+                "ai": 61.6,
                 "rsi": 63.4,
                 "state": "WAIT",
                 "prob": 94
@@ -20934,7 +20934,7 @@
                 "pnl": 6.45,
                 "win": true,
                 "score": 55,
-                "ai": 87.7,
+                "ai": 87.5,
                 "rsi": 70.4,
                 "state": "WAIT",
                 "prob": 95
@@ -20946,7 +20946,7 @@
                 "pnl": 1.75,
                 "win": true,
                 "score": 70,
-                "ai": 94.0,
+                "ai": 93.8,
                 "rsi": 65.1,
                 "state": "ACCUM",
                 "prob": 95
@@ -20994,7 +20994,7 @@
                 "pnl": -2.96,
                 "win": false,
                 "score": 60,
-                "ai": 82.2,
+                "ai": 82.0,
                 "rsi": 44.9,
                 "state": "ACCUM",
                 "prob": 95
@@ -21208,15 +21208,27 @@
             ]
           },
           "bayesian": {
-            "n": 21,
-            "wins": 13,
-            "win_rate": 61.9,
-            "avg_pnl": 1.47,
-            "total_pnl": 30.93,
-            "max_win": 36.01,
+            "n": 20,
+            "wins": 12,
+            "win_rate": 60.0,
+            "avg_pnl": -0.25,
+            "total_pnl": -5.08,
+            "max_win": 19.38,
             "max_loss": -22.08,
-            "profit_factor": 1.36,
+            "profit_factor": 0.94,
             "trades": [
+              {
+                "date": "2025-01-23",
+                "entry": 364.86,
+                "exit": 284.31,
+                "pnl": -22.08,
+                "win": false,
+                "score": 70,
+                "ai": 93.7,
+                "rsi": 68.4,
+                "state": "ACCUM",
+                "prob": 95
+              },
               {
                 "date": "2025-01-30",
                 "entry": 322.83,
@@ -21230,25 +21242,13 @@
                 "prob": 95
               },
               {
-                "date": "2025-04-28",
-                "entry": 285.02,
-                "exit": 387.67,
-                "pnl": 36.01,
-                "win": true,
-                "score": 25,
-                "ai": 60.3,
-                "rsi": 55.2,
-                "state": "WAIT",
-                "prob": 92
-              },
-              {
                 "date": "2025-05-05",
                 "entry": 296.79,
                 "exit": 354.31,
                 "pnl": 19.38,
                 "win": true,
                 "score": 25,
-                "ai": 75.8,
+                "ai": 73.9,
                 "rsi": 60.3,
                 "state": "WAIT",
                 "prob": 95
@@ -21284,7 +21284,7 @@
                 "pnl": 7.58,
                 "win": true,
                 "score": 40,
-                "ai": 82.1,
+                "ai": 80.7,
                 "rsi": 67.0,
                 "state": "WAIT",
                 "prob": 95
@@ -21296,7 +21296,7 @@
                 "pnl": 5.57,
                 "win": true,
                 "score": 40,
-                "ai": 65.4,
+                "ai": 64.5,
                 "rsi": 61.8,
                 "state": "WAIT",
                 "prob": 95
@@ -21308,7 +21308,7 @@
                 "pnl": 9.04,
                 "win": true,
                 "score": 55,
-                "ai": 62.1,
+                "ai": 61.6,
                 "rsi": 63.4,
                 "state": "WAIT",
                 "prob": 94
@@ -21320,7 +21320,7 @@
                 "pnl": 4.67,
                 "win": true,
                 "score": 55,
-                "ai": 87.7,
+                "ai": 87.5,
                 "rsi": 70.4,
                 "state": "WAIT",
                 "prob": 95
@@ -21332,7 +21332,7 @@
                 "pnl": 5.64,
                 "win": true,
                 "score": 70,
-                "ai": 94.0,
+                "ai": 93.8,
                 "rsi": 65.1,
                 "state": "ACCUM",
                 "prob": 95
@@ -21380,7 +21380,7 @@
                 "pnl": 7.02,
                 "win": true,
                 "score": 60,
-                "ai": 82.2,
+                "ai": 82.0,
                 "rsi": 44.9,
                 "state": "ACCUM",
                 "prob": 95
@@ -21546,14 +21546,14 @@
             ]
           },
           "bayesian": {
-            "n": 16,
-            "wins": 9,
-            "win_rate": 56.2,
-            "avg_pnl": 3.45,
-            "total_pnl": 55.17,
-            "max_win": 32.82,
+            "n": 15,
+            "wins": 8,
+            "win_rate": 53.3,
+            "avg_pnl": 1.49,
+            "total_pnl": 22.35,
+            "max_win": 29.85,
             "max_loss": -13.7,
-            "profit_factor": 1.9,
+            "profit_factor": 1.36,
             "trades": [
               {
                 "date": "2025-01-23",
@@ -21580,25 +21580,13 @@
                 "prob": 95
               },
               {
-                "date": "2025-04-28",
-                "entry": 285.02,
-                "exit": 378.56,
-                "pnl": 32.82,
-                "win": true,
-                "score": 25,
-                "ai": 60.3,
-                "rsi": 55.2,
-                "state": "WAIT",
-                "prob": 92
-              },
-              {
                 "date": "2025-05-05",
                 "entry": 296.79,
                 "exit": 385.37,
                 "pnl": 29.85,
                 "win": true,
                 "score": 25,
-                "ai": 75.8,
+                "ai": 73.9,
                 "rsi": 60.3,
                 "state": "WAIT",
                 "prob": 95
@@ -21634,7 +21622,7 @@
                 "pnl": 0.98,
                 "win": true,
                 "score": 40,
-                "ai": 82.1,
+                "ai": 80.7,
                 "rsi": 67.0,
                 "state": "WAIT",
                 "prob": 95
@@ -21646,7 +21634,7 @@
                 "pnl": 2.53,
                 "win": true,
                 "score": 40,
-                "ai": 65.4,
+                "ai": 64.5,
                 "rsi": 61.8,
                 "state": "WAIT",
                 "prob": 95
@@ -21658,7 +21646,7 @@
                 "pnl": -5.43,
                 "win": false,
                 "score": 55,
-                "ai": 62.1,
+                "ai": 61.6,
                 "rsi": 63.4,
                 "state": "WAIT",
                 "prob": 94
@@ -21670,7 +21658,7 @@
                 "pnl": -10.82,
                 "win": false,
                 "score": 55,
-                "ai": 87.7,
+                "ai": 87.5,
                 "rsi": 70.4,
                 "state": "WAIT",
                 "prob": 95
@@ -21682,7 +21670,7 @@
                 "pnl": -10.1,
                 "win": false,
                 "score": 70,
-                "ai": 94.0,
+                "ai": 93.8,
                 "rsi": 65.1,
                 "state": "ACCUM",
                 "prob": 95
@@ -21730,7 +21718,7 @@
                 "pnl": 3.79,
                 "win": true,
                 "score": 60,
-                "ai": 82.2,
+                "ai": 82.0,
                 "rsi": 44.9,
                 "state": "ACCUM",
                 "prob": 95
@@ -50027,7 +50015,7 @@
             "wins": 20,
             "win_rate": 54.1,
             "avg_pnl": 0.14,
-            "total_pnl": 5.29,
+            "total_pnl": 5.28,
             "max_win": 5.58,
             "max_loss": -11.82,
             "profit_factor": 1.13,
